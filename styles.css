@@ -1,11 +1,9 @@
-.lp-table, .lp-th, .lp-td {
-        border: 1px solid rgb(27, 46, 250);
-        border-collapse: collapse;
-    }
-    .lp-th, .lp-td {
-        padding: 10px;
-    }
-    .lp-table{
-        width: 80%;
-        margin: 10px;
-    }
+.lp-section{
+    margin: 18px auto 30px;
+    width: 400px;
+}
+.lp-image{
+    width: 400px;
+    display: block;
+    margin: auto;
+}
